@@ -4,12 +4,13 @@ body{
  /* font-family: 'ZCOOL QingKe HuangYou', cursive; */
  display:flex;
  justify-content: center;
- /* background-image:url('/main/static/maxresdefault.jpg');
+ background-image:url('static/maxresdefault.jpg');
  background-repeat: no-repeat;
  background-attachment: fixed;
- background-size: 100% 100%; */
- background-color:#9c3d3d;
+ background-size: 100% 100%;
+ /* background-color:#9c3d3d; */
 }
+
 .card_container{
  width: 500px;
  height:832px;
